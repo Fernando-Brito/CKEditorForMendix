@@ -116,7 +116,8 @@ var CKBUILDER_CONFIG = {
 		'undo' : 1,
 		'videodetector' : 1,
 		'wsc' : 1,
-		'wysiwygarea' : 1
+		'wysiwygarea' : 1,
+                'exportpdf' : 1
 	},
 	languages : {
 		'af' : 1,
